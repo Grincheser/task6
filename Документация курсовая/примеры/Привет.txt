@@ -1,0 +1,1 @@
+Мой стек: C#, ASP .NET core, Web-API, Visual Studio, Docker, PostgrSQL, pgAdmin 4, GitHub, MinIO, Postman, Swagger, JWT, NGINX. Клиент на :Flutter/Dart, React.
